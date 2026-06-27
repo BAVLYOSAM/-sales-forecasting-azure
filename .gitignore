@@ -1,0 +1,6 @@
+.env
+*.pkl
+data/
+__pycache__/
+.streamlit/
+venv/
